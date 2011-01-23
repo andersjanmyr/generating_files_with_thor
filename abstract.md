@@ -1,4 +1,4 @@
-## Automate the Boring with Thor
+## Automate the Tedious with Thor
 
 Are you sick of googling for snippets, when all you want to do is to start a new application? Do you dread setting up a new server, because you always forget to add some option or some file? Don't be, use generators!
 
